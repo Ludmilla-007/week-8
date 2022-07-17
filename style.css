@@ -1,0 +1,41 @@
+.header_logo_text{
+    position: absolute;
+  left: 10%;
+  right: 0.19%;
+  top: 23.19%;
+  bottom: 32.44%;
+  }
+  
+  .cart{
+    position: absolute;
+  
+  left: 75%;
+  
+  }
+  .display{
+  
+font-family: 'Intro ';
+font-style: normal;
+font-weight: 600;
+font-size: 60px;
+line-height: 120%;
+
+color: #000000;
+
+
+  }
+  .display_text{
+    font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 160%;
+color: #000000;
+  }
+  .image{
+    position: absolute;
+   height: 65vh;
+   width: 40vw;
+   
+ 
+  }
